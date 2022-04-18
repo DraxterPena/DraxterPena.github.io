@@ -1,0 +1,40 @@
+.nav__ul-a--active:hover {
+	color: blue
+}
+
+
+.titulo__h1--active {
+	color: red 
+}
+.titulo__h2--active {
+	color: blue
+}
+
+
+.contenido__h2--active {
+	color: red
+}
+.contenido__a--active:hover {
+	color: red
+} 
+
+
+.estadisticas__h2--active {
+	color: red
+}
+.accesorios__h2--active {
+	color: red
+}
+.ventajas__h2--active {
+	color: red
+}
+.skins__h2--active {
+	color: red
+}
+.skins__h3--active {
+	color: blue
+}
+
+.footer__ul-a:hover {
+	color: blue
+}
